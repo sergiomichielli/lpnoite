@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584182789 source:/home/maromo/lpnoitelo/lpnoite/exemploString2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
